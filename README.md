@@ -11,8 +11,8 @@ This comprehensive project analyzes Beijing's air quality data (2013-2017) to un
 - Provide cost-benefit analysis for interventions
 
 ## Key Variables
-- Category          Variables	                          Description
-- Pollutants	      PM2.5, PM10, SO2, NO2, CO, O3	      Concentrations in µg/m³
-- Meteorological	  TEMP, PRES, DEWP, RAIN, wd, WSPM	  Temperature, pressure, dew point, precipitation, wind direction, wind speed
-- Temporal	        year, month, day, hour	            Timestamp components
-- Spatial	          station	                            Monitoring station name
+- Category     --     Variables	             --             Description
+- Pollutants	  --    PM2.5, PM10, SO2, NO2, CO, O3	  --    Concentrations in µg/m³
+- Meteorological	--  TEMP, PRES, DEWP, RAIN, wd, WSPM	--  Temperature, pressure, dew point, precipitation, wind direction, wind speed
+- Temporal	   --     year, month, day, hour	     --       Timestamp components
+- Spatial	    --      station	            --                Monitoring station name
