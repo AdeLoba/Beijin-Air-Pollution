@@ -16,3 +16,9 @@ This comprehensive project analyzes Beijing's air quality data (2013-2017) to un
 - Meteorological	--  TEMP, PRES, DEWP, RAIN, wd, WSPM	--  Temperature, pressure, dew point, precipitation, wind direction, wind speed
 - Temporal	   --     year, month, day, hour	     --       Timestamp components
 - Spatial	    --      station	            --                Monitoring station name
+
+## Dataset: Beijing Multi-Site Air-Quality Data
+- Hourly air pollutants data from 12 sites (2013-2017)
+- PM2.5, PM10, SO2, NO2, CO, O3 concentrations
+- Meteorological data (temperature, pressure, wind)
+- Link: https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data
